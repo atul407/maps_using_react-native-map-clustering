@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "maps_with_address",
+    "slug": "maps_with_address",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "maps_with_address"
+}
